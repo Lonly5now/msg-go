@@ -1,6 +1,6 @@
 ## Msg Go 留言板
 
-
+```
 目录结构
 ├── **bin**
 │   └── www | *node http初始化文件*
@@ -43,6 +43,8 @@
 ├── app.js
 ├── package.json
 └── webpack.config.js
+```
+
 
 ### 应用功能
 
